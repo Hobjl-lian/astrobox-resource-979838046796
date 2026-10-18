@@ -5,11 +5,11 @@
     "name": "幻境",
     "description": "小组件数据与跳转均支持自定义，12 张壁纸可切换，后续版本会继续补充。",
     "preview": [
-      "media/cover.png",
+      "media/cover.jpg",
       "media/preview.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/cover.png",
+    "cover": "media/cover.jpg",
     "author": [
       {
         "name": "Hobjl",
